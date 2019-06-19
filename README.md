@@ -1,26 +1,12 @@
-# vishalkumarlondon.github.io
+# photogram.github.io
 
 ### My github.io page
 
-This webpage is the best.
+This the photogram.ai website. This GitHub.io pages hosts our main website.
 
-This webpage shows my work for three topic areas:
+1. [link something](https://vishalkumarlondon.github.io/creative-coding/)
 
-1. [creative coding](https://vishalkumarlondon.github.io/creative-coding/)
+2. computational photography
 
-2. data visualization
-
-3. data science
-
-### [creative coding](https://vishalkumarlondon.github.io/creative-coding/)
-
-Explaination
-
-### data visualiztion
-
-Explaination
-
-### data science
-
-Explaination
+3. computational camera
 
