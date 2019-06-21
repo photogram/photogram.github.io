@@ -4252,7 +4252,7 @@ html.no-csstransitions .home-content__main {
   text-align: center;
   margin-left: 0;
   font-weight: 700;
-  font-size: 4.5rem;
+  font-size: 3.5rem;
   position: relative;
 }
 
@@ -4280,14 +4280,14 @@ html.no-csstransitions .home-content__main {
   }
 
   .clients {
-    font-size: 4.2rem;
+    font-size: 3.5rem;
   }
 
 }
 
 @media only screen and (max-width:900px) {
   .clients {
-    font-size: 4rem;
+    font-size: 3rem;
   }
 
 }
@@ -4298,7 +4298,7 @@ html.no-csstransitions .home-content__main {
   }
 
   .clients {
-    font-size: 3.4rem;
+    font-size: 2.5rem;
   }
 
 }
@@ -4310,7 +4310,7 @@ html.no-csstransitions .home-content__main {
   }
 
   .clients {
-    font-size: 3rem;
+    font-size: 2.5rem;
   }
 
 }
@@ -4321,7 +4321,7 @@ html.no-csstransitions .home-content__main {
   }
 
   .clients {
-    font-size: 2.4rem;
+    font-size: 2rem;
   }
 
   .clients li {
@@ -4332,7 +4332,7 @@ html.no-csstransitions .home-content__main {
 
 @media only screen and (max-width:400px) {
   .clients {
-    font-size: 2.1rem;
+    font-size: 1.5rem;
   }
 
   .clients li {
