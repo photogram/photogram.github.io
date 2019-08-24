@@ -840,6 +840,7 @@ figcaption {
   display: -ms-flexbox;
   display: flex;
   width: 100%;
+  margin-top: 60px;
   margin-bottom: 60px;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
@@ -1737,6 +1738,11 @@ figcaption {
     grid-template-columns: 1fr;
     -ms-grid-rows: auto auto auto auto auto auto;
     grid-template-rows: auto auto auto auto auto auto;
+  }
+  .team-member-title-wrap {
+    position: static;
+    margin-top: 0px;
+    padding-top: 60px;
   }
   .project-cover-pic {
     margin-bottom: 20px;
