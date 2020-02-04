@@ -583,7 +583,9 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   background-color: #5b12d1;
-  background-image: linear-gradient(135deg, #09bbb0, #09bbb0, #09bbb0 30%, #ffaefc 80%, #ffaefc);
+  /* background-image: linear-gradient(135deg, #09bbb0, #09bbb0, #09bbb0 30%, #ffaefc 80%, #ffaefc); */
+  /* background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%); */
+  background-image: linear-gradient(135deg,  rgba(255,253,218,1) 0.5%, rgba(246,210,255,1) 8%, rgba(152,222,254,1) 80.7%, rgba(251,255,210,1) 104.8% );
   color: #fff;
 }
 
