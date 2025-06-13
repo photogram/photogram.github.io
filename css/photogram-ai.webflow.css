@@ -229,6 +229,7 @@ img {
 
 .row.mb-20 {
   margin-bottom: 20px;
+  display: none;
 }
 
 .section-title {
@@ -795,6 +796,11 @@ img {
 }
 
 @media screen and (max-width: 479px) {
+  .section {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
   .container {
     padding-right: 24px;
   }
@@ -808,8 +814,12 @@ img {
     margin-left: 4px;
   }
 
+  .text-xl.header-text {
+    margin-bottom: 0;
+  }
+
   .footer {
-    padding-top: 48px;
+    padding-top: 40px;
   }
 }
 
